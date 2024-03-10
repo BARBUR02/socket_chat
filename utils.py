@@ -1,7 +1,6 @@
 from dataclasses import dataclass, asdict
 from datetime import datetime
 import json
-import sys
 from typing import Any, Literal
 from colorama import Fore, Style
 import threading
